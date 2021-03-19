@@ -1,0 +1,12 @@
+name: NBA_Stats
+title: NBA_Stats
+username:
+account: jacobwharmon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3817804
+bundleId: 4366287
+url: https://jacobwharmon.shinyapps.io/NBA_Stats/
+when: 1616113683.58049
+asMultiple: FALSE
+asStatic: FALSE
